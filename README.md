@@ -1,5 +1,3 @@
-# Penalty Shootout Game
-An HTML canvas based game, that can be played using mouse click.
-HTML canvas has been used for the animation of the character and animation of the ball has been achieved by making the ball move through an SVG curve. 
-
-To view the demo, click [here](https://blenderous.github.io/penalty-shootout-game/).
+# Proyecto Ludo-Arquero
+Un juego basado en HTML Canvas que se puede jugar haciendo clic con el ratón.
+Se ha utilizado HTML Canvas para la animación del personaje, mientras que la animación de la pelota se ha logrado haciéndola desplazarse a lo largo de una curva SVG.
